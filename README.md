@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: f114db32c8f49bbd4c4c544cd9de808d_1047ef3f6b4c11f1a99c5254007bceed
-    ReservedCode1: MT/7A1AIgiSIiE4yu7rMXoi3Dnq6dWhjIMYkmYXlTTaluuT7y9kedRlwYj+wsr7IVuAcj5QULPkJslH/kO10ozxzV63hPaMeArrGzPOmxjJqGe6PZck1rMx2VJ1lq0KIlDOpJofkWSryLWMRDHYUVjvS8PBf3UUOcl8RlgRCKwDmwElE+B6CrYIi+xY=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: f114db32c8f49bbd4c4c544cd9de808d_1047ef3f6b4c11f1a99c5254007bceed
-    ReservedCode2: MT/7A1AIgiSIiE4yu7rMXoi3Dnq6dWhjIMYkmYXlTTaluuT7y9kedRlwYj+wsr7IVuAcj5QULPkJslH/kO10ozxzV63hPaMeArrGzPOmxjJqGe6PZck1rMx2VJ1lq0KIlDOpJofkWSryLWMRDHYUVjvS8PBf3UUOcl8RlgRCKwDmwElE+B6CrYIi+xY=
----
-
 # 咨询交付 - consulting-delivery
 
 面向管理咨询顾问的交付物生产工具。覆盖高管简报、咨询报告、方案框架、对标分析、桌面调研、访谈纪要和项目周报，采用McKinsey/BCG标准化方法论和格式规范。
