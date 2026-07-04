@@ -5,6 +5,14 @@ description: |
   CEO汇报: 帮我写个给CEO的报告, 出个高管简报, 执行摘要, Steerco汇报; 写报告: 帮我写一份咨询报告, 帮我出个报告, 金字塔原理, 交付报告; 方案框架: 方案框架, Issue Tree, 方案设计; 标杆对比: 标杆对比, benchmarking, 差距分析, 对标分析; 桌面调研: 帮我调研一下这个行业, 帮我查下这个市场, 行业调研, 市场研究; 访谈纪要: 帮我整理访谈记录, 帮我写会议纪要, 专家访谈, 会议记录; 项目周报: 项目周报, 周报, 项目进展, status report。
 version: "1.0.1"
 author: "智慧半岛"
+license: MIT
+allowed-tools:
+  - Read
+  - Grep
+  - Glob
+  - Shell
+  - Edit
+  - Write
 ---
 
 # consulting-delivery -- 咨询交付综合技能
@@ -23,7 +31,7 @@ author: "智慧半岛"
 
 ### Step 2: 加载子技能模板
 
-匹配到子技能后，根据子技能索引表找到对应的文件路径，**必须**使用 `read_text` 工具读取 `references/` 目录下的完整执行模板。
+匹配到子技能后，根据子技能索引表找到对应的文件路径，**必须**使用 `Read` 工具读取 `references/` 目录下的完整执行模板。
 
 ### Step 3: 按模板执行
 
